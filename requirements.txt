@@ -1,0 +1,2 @@
+anthropic
+mcp<2.0.0
